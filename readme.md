@@ -117,16 +117,6 @@ Camera → OpenCV + MediaPipe → Fatigue Detection Logic → FastAPI → React 
 
 ## Screenshots
 
-(Add screenshots here later)
-
-Example:
-
-```
-![Dashboard Screenshot](screenshots/dashboard.png)
-```
-
----
-
 ## Future Improvements
 
 * Driver attention score gauge
